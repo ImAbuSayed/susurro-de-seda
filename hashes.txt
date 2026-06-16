@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro de seda
+
+This log tracks the cryptographic history and versioning for the song **Susurro de seda** (susurro-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:40:24.727435 | `v1` | `9171a34631d4247678d481c9d669bd08a5f3ce29b47f5134d51d70b5711a5e66` | `fc1e74958c5c0b2f996c13e4c44aac693098de55fc43c236e195a39747c1ad66` | `2026-06-16_susurro-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

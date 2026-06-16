@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Susurro de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-seda/) |
+| **Get License** | [Get License For Susurro de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel your rhythm in the shadows of the club tonight
+> Silk whispers falling on my skin under the neon light
+> You move so slow, you pull me into your forbidden zone
+> I know exactly what you want when we are all alone
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9171a34631d4247678d481c9d669bd08a5f3ce29b47f5134d51d70b5711a5e66` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
